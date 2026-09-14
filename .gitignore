@@ -9,3 +9,6 @@ logs.log
 # Pamięć podręczna Pythona
 __pycache__/
 *.pyc
+
+venv/
+.venv/
